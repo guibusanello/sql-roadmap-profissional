@@ -1,5 +1,10 @@
 # 🚀 SQL Roadmap | Data Engineering & Analytics
 
+![SQL](https://img.shields.io/badge/SQL-Advanced-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Used-336791)
+![Data Engineering](https://img.shields.io/badge/Data%20Engineering-Focus-darkgreen)
+![Status](https://img.shields.io/badge/Status-In%20Progress-orange)
+
 Repositório dedicado ao desenvolvimento estruturado de SQL aplicado a engenharia de dados, modelagem analítica e resolução de problemas reais de negócio.
 
 Este projeto combina **profundidade técnica** com **mentalidade orientada a impacto**.
@@ -21,6 +26,7 @@ Demonstrar domínio em:
 ---
 
 ## 🗂 Estrutura do Repositório
+<<<<<<< HEAD
 
 Para esse repositório, o banco de dados utilizado é o Northwind.
 
@@ -31,6 +37,15 @@ fase_4_modelagem_dados/
 fase_5_window_functions/
 erros_classicos/
 cases_reais/
+=======
+- fase_1_fundamentos/
+- fase_2_cte_subqueries/
+- fase_3_analise_negocio/
+- fase_4_modelagem_dados/
+- fase_5_window_functions/
+- erros_classicos/
+- cases_reais/
+>>>>>>> 19fc0651f61274a3a20b8af8ab327875e1d2b057
 
 A progressão foi organizada para evoluir de fundamentos até construção de estruturas analíticas mais sofisticadas.
 
