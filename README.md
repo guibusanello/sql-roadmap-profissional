@@ -26,18 +26,9 @@ Demonstrar domínio em:
 ---
 
 ## 🗂 Estrutura do Repositório
-<<<<<<< HEAD
 
 Para esse repositório, o banco de dados utilizado é o Northwind.
 
-fase_1_fundamentos/
-fase_2_cte_subqueries/
-fase_3_analise_negocio/
-fase_4_modelagem_dados/
-fase_5_window_functions/
-erros_classicos/
-cases_reais/
-=======
 - fase_1_fundamentos/
 - fase_2_cte_subqueries/
 - fase_3_analise_negocio/
@@ -45,7 +36,6 @@ cases_reais/
 - fase_5_window_functions/
 - erros_classicos/
 - cases_reais/
->>>>>>> 19fc0651f61274a3a20b8af8ab327875e1d2b057
 
 A progressão foi organizada para evoluir de fundamentos até construção de estruturas analíticas mais sofisticadas.
 
