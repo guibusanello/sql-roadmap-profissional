@@ -21,13 +21,13 @@ Demonstrar domínio em:
 ---
 
 ## 🗂 Estrutura do Repositório
-fase_1_fundamentos/
-fase_2_cte_subqueries/
-fase_3_analise_negocio/
-fase_4_modelagem_dados/
-fase_5_window_functions/
-erros_classicos/
-cases_reais/
+- fase_1_fundamentos/
+- fase_2_cte_subqueries/
+- fase_3_analise_negocio/
+- fase_4_modelagem_dados/
+- fase_5_window_functions/
+- erros_classicos/
+- cases_reais/
 
 A progressão foi organizada para evoluir de fundamentos até construção de estruturas analíticas mais sofisticadas.
 
