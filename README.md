@@ -1,5 +1,10 @@
 # 🚀 SQL Roadmap | Data Engineering & Analytics
 
+![SQL](https://img.shields.io/badge/SQL-Advanced-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Used-336791)
+![Data Engineering](https://img.shields.io/badge/Data%20Engineering-Focus-darkgreen)
+![Status](https://img.shields.io/badge/Status-In%20Progress-orange)
+
 Repositório dedicado ao desenvolvimento estruturado de SQL aplicado a engenharia de dados, modelagem analítica e resolução de problemas reais de negócio.
 
 Este projeto combina **profundidade técnica** com **mentalidade orientada a impacto**.
