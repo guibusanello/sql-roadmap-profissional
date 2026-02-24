@@ -31,9 +31,9 @@ Para esse repositório, o banco de dados utilizado é o Northwind.
 
 - fase_1_fundamentos/
 - fase_2_cte_subqueries/
-- fase_3_analise_negocio/
+- fase_3_window_functions/
 - fase_4_modelagem_dados/
-- fase_5_window_functions/
+- fase_5_analise_negocio/
 - erros_classicos/
 - cases_reais/
 
